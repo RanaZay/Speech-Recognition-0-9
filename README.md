@@ -32,23 +32,23 @@ To run the code in this project, you need the following dependencies:
 - scikit-learn
 
 
-##Usage
-1-Dataset Preparation:
+## Usage
+1- Dataset Preparation:
 
 Download the Google Speech Commands dataset and extract it into the specified directory.
-2-Model Training:
+2- Model Training:
 
 Run the train_model.py script to train the CNN model on the prepared dataset.
-3-Model Evaluation:
+3- Model Evaluation:
 
 After training, evaluate the model's performance using the evaluate_model.py script.
-4-Prediction:
+4- Prediction:
 
 Use the pre-trained model to make predictions on new audio samples with the predict_digit.py script.
 Pretrained Model
 We provide a pre-trained CNN model (digit_speech_recognition_Finalmodel.h5) that you can use to predict digits from audio samples directly. Refer to the Prediction section for usage instructions.
 
-##Contributing
+## Contributing
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 
