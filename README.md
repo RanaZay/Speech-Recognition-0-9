@@ -31,7 +31,5 @@ To run the code in this project, you need the following dependencies:
 - Librosa
 - scikit-learn
 
-You can install these dependencies via pip:
 
-```bash
-pip install -r requirements.txt
+
