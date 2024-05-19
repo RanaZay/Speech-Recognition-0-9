@@ -20,7 +20,7 @@ Speech recognition is the process of converting spoken words into text. In this 
 
 To run the code in this project, you need the following dependencies:
 
-
+- Important note to open the DigitSpeak_Final.ipynb you need to Clone the repo on Visual Studio or Download it ,then open it from google colab due to different nbconvert versions
 - Python 3.x
 - TensorFlow 2.x
 - Keras
