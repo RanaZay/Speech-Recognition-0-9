@@ -45,10 +45,10 @@ After training, evaluate the model's performance using the evaluate_model.py scr
 - Prediction:
 
 Use the pre-trained model to make predictions on new audio samples with the predict_digit.py script.
-
--Pretrained Model
-We provide a pre-trained CNN model (digit_speech_recognition_Finalmodel.h5) that you can use to predict digits from audio samples directly. Refer to the Prediction section for usage instructions.
 To test the model you can record a .wav file using Online recorder Exp: https://voice-recorder-online.com/
+- Pretrained Model
+We provide a pre-trained CNN model (digit_speech_recognition_Finalmodel.h5) that you can use to predict digits from audio samples directly. Refer to the Prediction section for usage instructions.
+
 ## Contributing
 Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
