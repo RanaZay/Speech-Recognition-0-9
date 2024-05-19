@@ -33,16 +33,16 @@ To run the code in this project, you need the following dependencies:
 
 
 ## Usage
-1- Dataset Preparation:
+- Dataset Preparation:
 
 Download the Google Speech Commands dataset and extract it into the specified directory.
-2- Model Training:
+- Model Training:
 
 Run the train_model.py script to train the CNN model on the prepared dataset.
-3- Model Evaluation:
+- Model Evaluation:
 
 After training, evaluate the model's performance using the evaluate_model.py script.
-4- Prediction:
+- Prediction:
 
 Use the pre-trained model to make predictions on new audio samples with the predict_digit.py script.
 Pretrained Model
